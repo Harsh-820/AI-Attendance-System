@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "roll_no": "101",
+      "name": "Aarav Sharma",
+      "subjects": {
+        "Mathematics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "absent"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "present"}]},
+        "Physics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "absent"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "present"}]},
+        "Chemistry": {"days": [{"date": "2026-10-20", "status": "absent"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "present"}]}
+      }
+    },
+    {
+      "roll_no": "102",
+      "name": "Diya Patel",
+      "subjects": {
+        "Mathematics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "absent"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "absent"}, {"date": "2026-10-24", "status": "present"}]},
+        "Physics": {"days": [{"date": "2026-10-20", "status": "absent"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "absent"}, {"date": "2026-10-24", "status": "present"}]},
+        "Chemistry": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "absent"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "absent"}]}
+      }
+    },
+    {
+      "roll_no": "103",
+      "name": "Kabir Singh",
+      "subjects": {
+        "Mathematics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "present"}]},
+        "Physics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "absent"}, {"date": "2026-10-24", "status": "present"}]},
+        "Chemistry": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "absent"}]}
+      }
+    },
+    {
+      "roll_no": "104",
+      "name": "Rohan Verma",
+      "subjects": {
+        "Mathematics": {"days": [{"date": "2026-10-20", "status": "absent"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "absent"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "absent"}]},
+        "Physics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "absent"}, {"date": "2026-10-22", "status": "absent"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "absent"}]},
+        "Chemistry": {"days": [{"date": "2026-10-20", "status": "absent"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "absent"}, {"date": "2026-10-24", "status": "absent"}]}
+      }
+    },
+    {
+      "roll_no": "105",
+      "name": "Sneha Gupta",
+      "subjects": {
+        "Mathematics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "absent"}, {"date": "2026-10-24", "status": "present"}]},
+        "Physics": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "absent"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "present"}]},
+        "Chemistry": {"days": [{"date": "2026-10-20", "status": "present"}, {"date": "2026-10-21", "status": "present"}, {"date": "2026-10-22", "status": "present"}, {"date": "2026-10-23", "status": "present"}, {"date": "2026-10-24", "status": "absent"}]}
+      }
+    }
+  ]
+}
